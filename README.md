@@ -56,11 +56,15 @@ git clone https://github.com/JeffSmith-ok/Module_18_Challenge
 
 cd Module_18_Challenge
 
+Type the following command:
+
+streamlit run pychain.py
+
 ---
 
 ## Usage
 
-The following images present the first notebook.
+The following images present the app run in streamlit.
 
 ## ![Screenshot of the Jupyter Lab](Images/streamlit.png) </br>
 
