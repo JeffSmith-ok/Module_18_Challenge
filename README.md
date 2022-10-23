@@ -66,11 +66,11 @@ streamlit run pychain.py
 
 The following images present the app run in streamlit.
 
-## ![Screenshot of the Jupyter Lab](Images/streamlit.png) </br>
+## ![Screenshot of the streamlit app running](Images/streamlit1.png) </br>
 
 The following image shows the winning hash and block is valid messages in vscode.
 
-## ![Screenshot of the Jupyter Lab](Images/winning_hash.png) </br>
+## ![Screenshot of the winning hash in vscode](Images/winninghash.png) </br>
 
 ---
 
