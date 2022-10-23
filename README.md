@@ -68,6 +68,10 @@ The following images present the app run in streamlit.
 
 ## ![Screenshot of the Jupyter Lab](Images/streamlit.png) </br>
 
+The following image shows the winning hash and block is valid messages in vscode.
+
+## ![Screenshot of the Jupyter Lab](Images/winning_hash.png) </br>
+
 ---
 
 ## Contributors
