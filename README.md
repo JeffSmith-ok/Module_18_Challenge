@@ -66,7 +66,7 @@ streamlit run pychain.py
 
 The following images present the app run in streamlit.
 
-## ![Screenshot of the streamlit app running](Images/streamlit1.png) </br>
+## ![Screenshot of the streamlit app running](Images/streamlit2.png) </br>
 
 The following image shows the winning hash and block is valid messages in vscode.
 
