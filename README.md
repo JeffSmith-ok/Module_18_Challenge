@@ -39,18 +39,18 @@ Step 2: Modify the Existing Block Data Class to Store Record Data
 
 ## Technologies
 
-I created it in Anaconda with a dev environment running 3.7.13. Pip install the following libraries and dependencies.
+I created it with a dev environment running 3.7.13. Pip install the following libraries and dependencies in the installation guide.
 
 ---
 
 ## Installation Guide
 
-pip install streamlit
-pip install dataclasses
-pip install typing
-pip install datetime
-pip install pandas
-pip install hashlib
+pip install streamlit </br>
+pip install dataclasses </br>
+pip install typing </br>
+pip install datetime </br>
+pip install pandas </br>
+pip install hashlib</br>
 
 git clone https://github.com/JeffSmith-ok/Module_18_Challenge
 
