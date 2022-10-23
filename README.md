@@ -27,11 +27,11 @@ Step 2: Modify the Existing Block Data Class to Store Record Data
 
 - Change the existing `Block` data class by replacing the generic `data` attribute with a `record` attribute that’s of type `Record`.
 
-# Step 3: Add Relevant User Inputs to the Streamlit Interface
+Step 3: Add Relevant User Inputs to the Streamlit Interface
 
 - Create additional user input areas in the Streamlit application. These input areas should collect the relevant information for each financial recor that you’ll store in the `PyChain` ledger.
 
-# Step 4: Test the PyChain Ledger by Storing Records
+Step 4: Test the PyChain Ledger by Storing Records
 
 - I will test `PyChain` ledger.
 
